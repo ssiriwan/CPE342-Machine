@@ -1,0 +1,12 @@
+# ละเว้น .venv ทุกโฟลเดอร์
+**/.venv/
+.venv/
+
+# ไฟล์ cache และขยะของ Python
+**/__pycache__/
+**/.ipynb_checkpoints/
+*.pyc**/.venv/
+**/.venv/**
+.venv/
+**/__pycache__/
+*.pyc
